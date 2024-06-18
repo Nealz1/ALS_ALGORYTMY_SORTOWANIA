@@ -3,7 +3,6 @@
 // Zadanie 9.2
 //  Library Sort
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
