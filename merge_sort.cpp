@@ -3,7 +3,6 @@
 // Zadanie 11.1
 // Merge sort
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
