@@ -3,7 +3,6 @@
 // Zadanie 9.1
 //  Shell sort
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
