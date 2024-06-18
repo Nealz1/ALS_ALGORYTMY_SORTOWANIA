@@ -3,7 +3,6 @@
 // Zadanie 11.2
 // Natural merge sort
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
