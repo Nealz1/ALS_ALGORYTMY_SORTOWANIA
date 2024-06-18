@@ -3,7 +3,6 @@
 // Zadanie 10.3
 // Comb sort
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <iostream>
